@@ -12,4 +12,4 @@ tip_percent = float(input("What percentage tip would you like to give? 10, 12 or
 total_bill = bill + (tip_percent / 100 * bill)
 individual_pay = total_bill / people_count
 
-print(f"\nEach person should pay: {round(individual_pay, 2)}")
+print("\nEach person should pay: {:.2f}".format(individual_pay))

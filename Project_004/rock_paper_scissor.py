@@ -59,8 +59,8 @@ if __name__ == '__main__':
     computer_wins = 0
     print("Play 3 rounds of 'Rock, Paper, Scissor'")
 
-    for num in range(1, 4):
-        print(f"\n--Round {num}--")
+    for num in range(3):
+        print(f"\n--Round {num+1}--")
         user_choice = get_user_input()
         computer_choice = get_computer_input()
         print(f"Computer chose: {computer_choice}")

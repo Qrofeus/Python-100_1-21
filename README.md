@@ -103,3 +103,15 @@ Helps in code readability and future modifications to the program.\
 Questions selected from [OpenTriviaDB](https://opentdb.com/) consist of Multiple Choice and True/False questions.\
 Try to score your highest by answering correctly for the given piece of trivia.
 
+### [018 - Hirst Painting Project](/Project_018)
+
+Damien Hirst painting [Flumequine, 2007](https://www.artsy.net/artwork/damien-hirst-flumequine-25) is a canvas filled 
+with a grid of different coloured dots\
+-> Turtle and Graphical User Interface (GUI)
+
+### [019 - Etch-A-Sketch, Turtle Race](/Project_019)
+
+Etch-A-Sketch program (Draw on screen using your arrow keys)\
+Turtle Race (Multiple turtles race to reach the top of the screen)\
+-> Instances, State and Higher Order Functions
+

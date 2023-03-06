@@ -7,6 +7,7 @@ Udemy course for learning Python programming language.\
 Created by, developer and lead instructor on Udemy, **Dr. Angela Yu**.
 [Open Course Page](https://www.udemy.com/course/100-days-of-code/)
 
+![Udemy Course Banner](/img/100%20Days%20of%20Python%20-%20Banner.jpg)
 
 More about Dr. Angela Yu:\
 [Udemy Instructor Page](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)\

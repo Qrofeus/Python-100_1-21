@@ -13,6 +13,10 @@ More about Dr. Angela Yu:\
 [Udemy Instructor Page](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)\
 [App Brewery Website](https://www.appbrewery.co/)
 
+This repository contains the projects for **Days [1 - 21]**. Follow the link to see the next set of projects.\
+[100 Days of Python (Days 22-40)](https://github.com/Qrofeus/python-100_22-40)
+
+
 ## Project List
 
 ### [001 - Band Name Generator](/Project_001)
@@ -116,3 +120,7 @@ Etch-A-Sketch program (Draw on screen using your arrow keys)\
 Turtle Race (Multiple turtles race to reach the top of the screen)\
 -> Instances, State and Higher Order Functions
 
+### [020 - Snake GAme](/Project_020)
+
+Classic Snake Game from the Nokia mobile phones.\
+-> Classes, Inheritance
